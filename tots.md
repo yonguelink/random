@@ -112,3 +112,4 @@ EDITS:
 0. Added some generals tips from /u/vvooper
 0. Changed the order of things with the Lynel Room
 0. Added Master Mode "disclaimer"
+0. Vanishing fairy explanation
