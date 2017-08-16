@@ -14,10 +14,13 @@ Here I go:
 
 * Cook an extra def boost for 30 minute, that will help you clear at least (if not more) half of the trial, making small mistakes such as a Boko punch or spear attack be much less annoying (1/4 to 1 heart dmg, instead of 3-4 to 10-12). 
 	* Cooking a x3 boost for 30 minute requires x4 of def/atk boosting ingredient and a dragon horn. [More info here](https://www.reddit.com/r/zelda/comments/64xxw2/botw_guide_ultimate_cooking_all_boost_recipes/)
+* Any buff can be taken before the trial, including extra stamina and extra hearts. Cook them Durians!
 * Stasis REALLY helps, and even more vs hinox, Stasis them while their eye isn't covered and fire an arrow at it. It'll stun it even if it's still in stasis.
 * Water in the room? Drop the any non swimming enemies into it!
 * Any enemy that you feel have too powerful/annoying weapon, shock them, they drop their weapon (pick them up in the process) and will be way less dangerous.
 * [Keep in mind the multiplier you can find in this google doc](https://docs.google.com/document/d/1QiaqiORIK0BVTRjO-PtHKyAL5nTT8QushYDIWozNwoo/edit)
+* There are chests hidden here and there, set your Sheikah sensor to detect them.
+* If you can find a safe spot in a stage and you want to be absolutely sure to preserve your weapons/health, there is no shame in just using Sheikah bombs. It'll take forever, but can be worth it.
 
 # Beginners trial
 
@@ -88,7 +91,7 @@ Floor 19 to 23 is Castle Town style, calm sunny area with some buildings
 |18|Rest|I didn't have fairies... strange|
 |19|x6 Decayed Guardian|Either shield parry or spin to win with the crusher. Stealth till you are close to one and kill it. If one wakes up before you can reach it, hide behind trees and stasis him while you approach, head shot also stuns them for a good while|
 |20|x1 Guardian Stalker|Either Ancient Arrow to the face or approach slowly, break his legs and finish the job with your best 1 handed (I broke 2 Royal Guard swords on it)|
-|21|x1 Guardian Skywatcher|Ancient Arrow on his back, where the Sheika logo is, or in his eye. If you have the Lynel's bow, the three arrow shot will kill it (500 dmg each, non crit)|
+|21|x1 Guardian Skywatcher|Ancient Arrow on his back, where the Sheikah logo is, or in his eye. If you have the Lynel's bow, the three arrow shot will kill it (500 dmg each, non crit)|
 |22|x1 Guardian Skywatcher & x1 Guardian Stalker & x1 Guardian Turret|I went with the Skywatcher first, then the Stalker and the Turret at the end, always making sure I was in the Turret's blind spot. Ancient arrow FTW.|
 |23|x8 Blue Bokos on horses & x1 Guardian Turret & x1 Golden Lynel|The Lynel is the real danger, Ancient Arrow ASAP. Ignore the Bokos charging full speed at you (while still trying to avoid their horses). Climb on the tower to kill the Turret, then head shot the Bokos one by one|
 
@@ -98,3 +101,8 @@ I finished with 2 ancient arrows left (and at least 3 full recovery food), I cou
 
 
 As this post will (probably) be updated often, I posted it on GitHub to keep track of it. You may find it [there](https://github.com/yonguelink/random/blob/master/tots.md). That version should always be the most up-to-date version.
+
+
+EDITS:
+
+0. Added some generals tips from /u/vvooper
