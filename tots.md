@@ -75,3 +75,5 @@ Don't be afraid to use arrows, you have plenty (That was my biggest mistake).
 
 
 * Final point: [keep in mind the multiplier you can find in this google doc](https://docs.google.com/document/d/1QiaqiORIK0BVTRjO-PtHKyAL5nTT8QushYDIWozNwoo/edit)
+
+As this post will (probably) be updated often, I posted it on GitHub to keep track of it. You may find it [there](https://github.com/yonguelink/random/blob/master/tots.md). That version should always be the most up-to-date version.
