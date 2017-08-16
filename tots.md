@@ -1,5 +1,9 @@
 This is my first thread, so be kind please...
 
+
+I forgot to mention it in the title: **This is intended to be for Master Mode** Obviously the tips are still valid for normal mode thought 
+
+
 I almost gave up on the trial of the sword, but a kind man on here gave me a few tricks and I got it. So I thought, why not sharing the tricks I received and those I used to everyone?
 
 This thread is intended to be ever evolving until everyone can clear the trials, so if you have more tricks to add, or specific techniques to beat a room, share them in the comment and I'll add them here!
@@ -106,3 +110,5 @@ As this post will (probably) be updated often, I posted it on GitHub to keep tra
 EDITS:
 
 0. Added some generals tips from /u/vvooper
+0. Changed the order of things with the Lynel Room
+0. Added Master Mode "disclaimer"
