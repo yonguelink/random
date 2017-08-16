@@ -18,7 +18,7 @@ Here I go:
 
 * Cook an extra def boost for 30 minute, that will help you clear at least (if not more) half of the trial, making small mistakes such as a Boko punch or spear attack be much less annoying (1/4 to 1 heart dmg, instead of 3-4 to 10-12). 
 	* Cooking a x3 boost for 30 minute requires x4 of def/atk boosting ingredient and a dragon horn. [More info here](https://www.reddit.com/r/zelda/comments/64xxw2/botw_guide_ultimate_cooking_all_boost_recipes/)
-* Any buff can be taken before the trial, including extra stamina and extra hearts. Cook them Durians!
+* Any buff can be taken before the trial, including extra stamina and extra hearts. Cook them Hearty and Enduring ingredients!
 * Stasis REALLY helps, and even more vs hinox, Stasis them while their eye isn't covered and fire an arrow at it. It'll stun it even if it's still in stasis.
 * Water in the room? Drop the any non swimming enemies into it!
 * Any enemy that you feel have too powerful/annoying weapon, shock them, they drop their weapon (pick them up in the process) and will be way less dangerous.
