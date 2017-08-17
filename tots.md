@@ -7,7 +7,9 @@ I forgot to mention it in the title: **This is intended to be for Master Mode** 
 I almost gave up on the trial of the sword, but a kind man on here gave me a few tricks and I got it. So I thought, why not sharing the tricks I received and those I used to everyone?
 
 This thread is intended to be ever evolving until everyone can clear the trials, so if you have more tricks to add, or specific techniques to beat a room, share them in the comment and I'll add them here!
+
 It's also aimed at the Master Mode version of things, so I'll be listing monster as their version in Master Mode.
+
 If I made any errors, let me know!
 
 tl;dr: If you have trouble with the trials, read the post.
@@ -25,14 +27,15 @@ Here I go:
 * [Keep in mind the multiplier you can find in this google doc](https://docs.google.com/document/d/1QiaqiORIK0BVTRjO-PtHKyAL5nTT8QushYDIWozNwoo/edit)
 * There are chests hidden here and there, set your Sheikah sensor to detect them.
 * If you can find a safe spot in a stage and you want to be absolutely sure to preserve your weapons/health, there is no shame in just using Sheikah bombs. It'll take forever, but can be worth it.
+* Stal enemy die from one headshot
 
 # Beginners trial
 
 |Room|Monsters|Tip|   
 |----|--------|---|
 |1|3x Blue Bokos|Crouch, get as close as possible from behind, then run like crazy to pick up most, if not all gear|
-|2|1x Fire Chuchu & 4x Blue Bokos|Throw just about anything at the chuchu to kill it. Kill the archer on the tower. Slow-mo from threes|
-|3|9x Chuchus (in rounds)|There are two chests on platform on each side of the room, you can either lure the Chuchus to burn the grass, or throw a 2h weapon to bust the platforms|
+|2|1x Fire Chuchu & 4x Blue Bokos|Throw just about anything at the chuchu to kill it. Kill the archer on the tower and get his bow, you can get arrows from the barrels on the ground next to the tower. Slow-mo from threes|
+|3|9x Chuchus (in rounds)|There are two chests on platform on each side of the room, you can either lure the Chuchus to burn the grass, or burn an arrow in the Chuchu's fire and shoot it at the platforms (or throw a 2h weapon)|
 |4|x5 Blue Bokos & x2 Dark Bokos||
 |5|x2 Blue Moblin & x3 Black Bokos||
 |6|x1 Talus||
@@ -69,9 +72,13 @@ Don't be afraid to use arrows, you have plenty (That was my biggest mistake).
 # Final trial
 
 Floor 1 to 5 is a dead forest with thunderstorms
+
 Floor 7 to 11 is a lava area, very hot
+
 Floor 13 to 17 is a cold area, fire weapons or food is required
+
 Floor 19 to 23 is Castle Town style, calm sunny area with some buildings
+
 
 |Room|Monsters|Tip|   
 |----|--------|---|
@@ -114,3 +121,6 @@ EDITS:
 0. Added Master Mode "disclaimer"
 0. Vanishing fairy explanation
 0. Added Beginners room 3 chests tip from /u/felicific
+0. Edited tip for room 3 with info from /u/random4808
+0. Attempted to clarify the room 2 from the beginners' trial
+0. Stal enemy die from headshots thanks to /u/ziggurism
