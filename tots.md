@@ -32,7 +32,7 @@ Here I go:
 |----|--------|---|
 |1|3x Blue Bokos|Crouch, get as close as possible from behind, then run like crazy to pick up most, if not all gear|
 |2|1x Fire Chuchu & 4x Blue Bokos|Throw just about anything at the chuchu to kill it. Kill the archer on the tower. Slow-mo from threes|
-|3|9x Chuchus (in rounds)||
+|3|9x Chuchus (in rounds)|There are two chests on platform on each side of the room, you can either lure the Chuchus to burn the grass, or throw a 2h weapon to bust the platforms|
 |4|x5 Blue Bokos & x2 Dark Bokos||
 |5|x2 Blue Moblin & x3 Black Bokos||
 |6|x1 Talus||
@@ -113,3 +113,4 @@ EDITS:
 0. Changed the order of things with the Lynel Room
 0. Added Master Mode "disclaimer"
 0. Vanishing fairy explanation
+0. Added Beginners room 3 chests tip from /u/felicific
