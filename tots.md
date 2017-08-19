@@ -59,7 +59,7 @@ Don't be afraid to use arrows, you have plenty (That was my biggest mistake).
 |5|Rest|Carefully pickup fairies, cook.|
 |6|x5 Fire Keeses & x1 Electric Chuchu|Until the next resting spot, it'll be dark.|
 |7|x2 Fire Lizalfos & x3 Blue Lizalfos|Ice works wonder on Fire stuff|
-|8|x1 Meteo Wizzrobe & x3 White(?) Bokos|Ice arrow on the Wizzrobe, or stun him while killing him! He must NOT cast his meteors, thread carefully with the Bokos|
+|8|x1 Meteo Wizzrobe & x2 Black Bokos & x1 White Bokos|Ice arrow on the Wizzrobe, or stun him while killing him! He must NOT cast his meteors, thread carefully with the Bokos|
 |9|x1 Decayed guardian|See prior Guardian|
 |10|x1 Black Hinox|See prior Hinox, except its dark|
 |11|Rest|See prior rest area|
@@ -104,7 +104,7 @@ Floor 19 to 23 is Castle Town style, calm sunny area with some buildings
 |20|x1 Guardian Stalker|Either Ancient Arrow to the face or approach slowly, break his legs and finish the job with your best 1 handed (I broke 2 Royal Guard swords on it)|
 |21|x1 Guardian Skywatcher|Ancient Arrow on his back, where the Sheikah logo is, or in his eye. If you have the Lynel's bow, the three arrow shot will kill it (500 dmg each, non crit)|
 |22|x1 Guardian Skywatcher & x1 Guardian Stalker & x1 Guardian Turret|I went with the Skywatcher first, then the Stalker and the Turret at the end, always making sure I was in the Turret's blind spot. Ancient arrow FTW.|
-|23|x8 Blue Bokos on horses & x1 Guardian Turret & x1 Golden Lynel|The Lynel is the real danger, Ancient Arrow ASAP. Ignore the Bokos charging full speed at you (while still trying to avoid their horses). Climb on the tower to kill the Turret, then head shot the Bokos one by one|
+|23|x8 Blue Bokos on horses & x1 Guardian Turret & x1 Silver Lynel|The Lynel is the real danger, Ancient Arrow ASAP. Ignore the Bokos charging full speed at you (while still trying to avoid their horses). Climb on the tower to kill the Turret, then head shot the Bokos one by one|
 
 Congrats! You beat the trial! 
 
@@ -124,3 +124,4 @@ EDITS:
 0. Edited tip for room 3 with info from /u/random4808
 0. Attempted to clarify the room 2 from the beginners' trial
 0. Stal enemy die from headshots thanks to /u/ziggurism
+0. Fixing a few errors on enemies (realised after replaying in the trials)
