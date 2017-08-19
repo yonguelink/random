@@ -124,4 +124,4 @@ EDITS:
 0. Edited tip for room 3 with info from /u/random4808
 0. Attempted to clarify the room 2 from the beginners' trial
 0. Stal enemy die from headshots thanks to /u/ziggurism
-0. Fixing a few errors on enemies (realised after replaying in the trials)
+0. Fixing a few errors on enemies (realized after replaying in the trials)
