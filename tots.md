@@ -104,7 +104,7 @@ Floor 19 to 23 is Castle Town style, calm sunny area with some buildings
 |20|x1 Guardian Stalker|Either Ancient Arrow to the face or approach slowly, break his legs and finish the job with your best 1 handed (I broke 2 Royal Guard swords on it)|
 |21|x1 Guardian Skywatcher|Ancient Arrow on his back, where the Sheikah logo is, or in his eye. If you have the Lynel's bow, the three arrow shot will kill it (500 dmg each, non crit)|
 |22|x1 Guardian Skywatcher & x1 Guardian Stalker & x1 Guardian Turret|I went with the Skywatcher first, then the Stalker and the Turret at the end, always making sure I was in the Turret's blind spot. Ancient arrow FTW.|
-|23|x8 Blue Bokos on horses & x1 Guardian Turret & x1 Silver Lynel|The Lynel is the real danger, Ancient Arrow ASAP. Ignore the Bokos charging full speed at you (while still trying to avoid their horses). Climb on the tower to kill the Turret, then head shot the Bokos one by one|
+|23|x8 Blue Bokos on horses & x1 Guardian Turret & x1 Silver Lynel|The Lynel is the real danger, Ancient Arrow ASAP. Ignore the Bokos charging full speed at you (while still trying to avoid their horses). You can also use bomb arrows or the ice rod from room 15 to deal with Bokos easily. Climb on the tower to kill the Turret, then head shot the Bokos one by one. |
 
 Congrats! You beat the trial! 
 
@@ -125,3 +125,4 @@ EDITS:
 0. Attempted to clarify the room 2 from the beginners' trial
 0. Stal enemy die from headshots thanks to /u/ziggurism
 0. Fixing a few errors on enemies (realized after replaying in the trials)
+0. Ice rod/Bombs arrow in the final room tip from /u/felicific
