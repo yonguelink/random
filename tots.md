@@ -27,7 +27,8 @@ Here I go:
 * [Keep in mind the multiplier you can find in this google doc](https://docs.google.com/document/d/1QiaqiORIK0BVTRjO-PtHKyAL5nTT8QushYDIWozNwoo/edit)
 * There are chests hidden here and there, set your Sheikah sensor to detect them.
 * If you can find a safe spot in a stage and you want to be absolutely sure to preserve your weapons/health, there is no shame in just using Sheikah bombs. It'll take forever, but can be worth it.
-* Stal enemy die from one headshot
+* Stal enemy die from one headshot.
+* A Korok leaf can easily push enemies around, use it to drop enemy into water (or lava).
 
 # Beginners trial
 
@@ -95,15 +96,15 @@ Floor 19 to 23 is Castle Town style, calm sunny area with some buildings
 |11|x1 Igneo Talus|Ice Arrow x1 + best 2h weapon, there are boulders you can break to get updraft|
 |12|Rest|Fairies!|
 |13|x2 Frost Pebblit & x1 Big Ice Chuchu & x2 Black Bokos & x1 Silver Boko||
-|14|x2 Big Ice Chuchu & x1 Ice Lizalfos & x4 Black Bokos & x1 Gold Moblin|**x3 ANCIENT ARROW IN CHEST** Take out the Lizalfos and Bokos first, freeze the Moblin and hit him with your best weapon for x3 dmg, rinse and repeat. Chest is under frozen pillar.|
-|15|x1 White Moblin & x1 Blizzrobe & x2 Black Bokos & x1 Golden Boko|Moblin > Blizzrobe > Black Bokos > Golden, same strat as previous floor|
+|14|x2 Big Ice Chuchu & x1 Ice Lizalfos & x4 Black Bokos & x1 Gold Moblin|**x3 ANCIENT ARROW IN CHEST** Take out the Lizalfos and Bokos first, freeze the Moblin and hit him with your best weapon for x3 dmg, rinse and repeat. Chest is under frozen pillar. The golden Moblin deals a crap ton of dmg, if you can't avoid all his hits use an ancient arrow.|
+|15|x1 White Moblin & x1 Blizzrobe & x2 Black Bokos & x1 Golden Boko|Moblin > Blizzrobe > Black Bokos > Golden, same strat as previous floor, also same if you can't avoid all the golden's Boko hits|
 |16|x1 Frost Talus|Fire arrow x1 + best 2h weapon, there are ice blocks you can melt to get updraft|
 |17|x1 White Lynel|I strongly suggest killing him to get his bow. If you're confident you can "head shot" the remaining guardians, then you can kill it with an Ancient arrow. If you fight him: classic Lynel fight, if you can aim on his head, head shot him, climb on his back and repeat till it's dead. If you can't aim (like I couldn't), shield parry, flurry rush! The Lynel as a sword, you can find a spear and a crusher in the room.|
 |18|Rest|Fairies! (No fairies? Hold the ones you have in your inventory, close your inventory, put them back and enjoy your extra fairies)|
 |19|x6 Decayed Guardian|Either shield parry or spin to win with the crusher. Stealth till you are close to one and kill it. If one wakes up before you can reach it, hide behind trees and stasis him while you approach, head shot also stuns them for a good while|
 |20|x1 Guardian Stalker|Either Ancient Arrow to the face or approach slowly, break his legs and finish the job with your best 1 handed (I broke 2 Royal Guard swords on it)|
 |21|x1 Guardian Skywatcher|Ancient Arrow on his back, where the Sheikah logo is, or in his eye. If you have the Lynel's bow, the three arrow shot will kill it (500 dmg each, non crit)|
-|22|x1 Guardian Skywatcher & x1 Guardian Stalker & x1 Guardian Turret|I went with the Skywatcher first, then the Stalker and the Turret at the end, always making sure I was in the Turret's blind spot. Ancient arrow FTW.|
+|22|x1 Guardian Skywatcher & x1 Guardian Stalker & x1 Guardian Turret|I went with the Skywatcher first, then the Stalker and the Turret at the end, always making sure I was in the Turret's blind spot. Ancient arrow FTW. The turrets can be relatively easy to kill without Ancient Arrow, if you don't have enough left|
 |23|x8 Blue Bokos on horses & x1 Guardian Turret & x1 Silver Lynel|The Lynel is the real danger, Ancient Arrow ASAP. Ignore the Bokos charging full speed at you (while still trying to avoid their horses). You can also use bomb arrows or the ice rod from room 15 to deal with Bokos easily. Climb on the tower to kill the Turret, then head shot the Bokos one by one. |
 
 Congrats! You beat the trial! 
@@ -126,3 +127,4 @@ EDITS:
 0. Stal enemy die from headshots thanks to /u/ziggurism
 0. Fixing a few errors on enemies (realized after replaying in the trials)
 0. Ice rod/Bombs arrow in the final room tip from /u/felicific
+0. Korok leaf is a great tool from /u/andysaurus_rex
