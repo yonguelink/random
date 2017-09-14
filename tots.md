@@ -37,7 +37,7 @@ Here I go:
 |1|3x Blue Bokos|Crouch, get as close as possible from behind, then run like crazy to pick up most, if not all gear|
 |2|1x Fire Chuchu & 4x Blue Bokos|Throw just about anything at the chuchu to kill it. Kill the archer on the tower and get his bow, you can get arrows from the barrels on the ground next to the tower. Slow-mo from threes|
 |3|9x Chuchus (in rounds)|There are two chests on platform on each side of the room, you can either lure the Chuchus to burn the grass, or burn an arrow in the Chuchu's fire and shoot it at the platforms (or throw a 2h weapon)|
-|4|x5 Blue Bokos & x2 Dark Bokos||
+|4|x5 Blue Bokos & x2 Dark Bokos|Headshot the lookouts from afar, and do your best to slow-mo headshot the blue bokos and take out the black bokos one by one (I managed to sneakstrike chain the one on top). The watch tower can be helpful to take a breather, but be mindful of the boko on top|
 |5|x2 Blue Moblin & x3 Black Bokos||
 |6|x1 Talus||
 |7|Rest|Carefully pick up the fairy, and everything else in the room. Cook everything. Avoid eating any buff-giving meals, you can even mix two buff giving items to cancel it out|
@@ -128,3 +128,4 @@ EDITS:
 0. Fixing a few errors on enemies (realized after replaying in the trials)
 0. Ice rod/Bombs arrow in the final room tip from /u/felicific
 0. Korok leaf is a great tool from /u/andysaurus_rex
+0. Added tips for Beginners room 4 from /u/ziggurism (helpful fella)
