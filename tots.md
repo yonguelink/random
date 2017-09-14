@@ -29,6 +29,7 @@ Here I go:
 * If you can find a safe spot in a stage and you want to be absolutely sure to preserve your weapons/health, there is no shame in just using Sheikah bombs. It'll take forever, but can be worth it.
 * Stal enemy die from one headshot.
 * A Korok leaf can easily push enemies around, use it to drop enemy into water (or lava).
+* Headshot the lookouts (basically, archers). Headshot deals x10 dmg on them.
 
 # Beginners trial
 
@@ -37,7 +38,7 @@ Here I go:
 |1|3x Blue Bokos|Crouch, get as close as possible from behind, then run like crazy to pick up most, if not all gear|
 |2|1x Fire Chuchu & 4x Blue Bokos|Throw just about anything at the chuchu to kill it. Kill the archer on the tower and get his bow, you can get arrows from the barrels on the ground next to the tower. Slow-mo from threes|
 |3|9x Chuchus (in rounds)|There are two chests on platform on each side of the room, you can either lure the Chuchus to burn the grass, or burn an arrow in the Chuchu's fire and shoot it at the platforms (or throw a 2h weapon)|
-|4|x5 Blue Bokos & x2 Dark Bokos|Headshot the lookouts from afar, and do your best to slow-mo headshot the blue bokos and take out the black bokos one by one (I managed to sneakstrike chain the one on top). The watch tower can be helpful to take a breather, but be mindful of the boko on top|
+|4|x5 Blue Bokos & x2 Dark Bokos|Take out the black bokos one by one (I managed to sneakstrike chain the one on top). The watch tower can be helpful to take a breather, but be mindful of the boko on top|
 |5|x2 Blue Moblin & x3 Black Bokos||
 |6|x1 Talus||
 |7|Rest|Carefully pick up the fairy, and everything else in the room. Cook everything. Avoid eating any buff-giving meals, you can even mix two buff giving items to cancel it out|
@@ -64,7 +65,7 @@ Don't be afraid to use arrows, you have plenty (That was my biggest mistake).
 |9|x1 Decayed guardian|See prior Guardian|
 |10|x1 Black Hinox|See prior Hinox, except its dark|
 |11|Rest|See prior rest area|
-|12|x6 Guardian Scouts I|Ice pillar, slow-mo head shot. The pillars also blocks their shots|
+|12|x6 Guardian Scouts I|Ice pillar, slow-mo headshot. The pillars also blocks their lasers|
 |13|x3 Guardian Scouts II|Use both rods you get to stun them, and flurry rush them! (Good luck, it's annoying) Focus on one at the time, so it can't regen. There's also a large metal block hidden in the room, you may (or not) drop it from very high on the Scouts|
 |14|x4 Guardian Scouts I & x2 Guardian Scout II|Ice Pillar + slow-mo for the Scout I. Once all 4 are dead, move to where one was, and stasis one Scout II, fire two arrows at it, un-stasis it, it'll move close to the water, stasis ASAP again, and fire to more arrows. Move onto the next.|
 |15|x2 Guardian Scout III|Use the leaves on the ground to burn them. Focus on one at the time|
@@ -90,7 +91,7 @@ Floor 19 to 23 is Castle Town style, calm sunny area with some buildings
 |5|x1 Stalnox|Stasis, grind his eye|
 |6|Rest|Fairies! **x3 Ancient arrows**|
 |7|x1 Big Fire Chuchu & x1 Rock Octorok & x2 Igneo Pebblit|Bombs|
-|8|x3 Fire Lizalfos|Slow-mo head shots|
+|8|x3 Fire Lizalfos|Slow-mo headshots|
 |9|x1 Meteo Wizzrobe & x1 Black Moblin & x2 Fire Lizalfos|Take out the Wizzrobe first, then try to take on one enemy at the time. Ice weapon one hit the Lizalfos.|
 |10|x3 Black Moblin & x1 Fire Lizalfos|**x3 ANCIENT ARROW IN CHEST** Kill the Lizalfos first, then the archer Moblin, then aggro Moblin to the bottom one at the time. The chest is in lava|
 |11|x1 Igneo Talus|Ice Arrow x1 + best 2h weapon, there are boulders you can break to get updraft|
@@ -99,13 +100,13 @@ Floor 19 to 23 is Castle Town style, calm sunny area with some buildings
 |14|x2 Big Ice Chuchu & x1 Ice Lizalfos & x4 Black Bokos & x1 Gold Moblin|**x3 ANCIENT ARROW IN CHEST** Take out the Lizalfos and Bokos first, freeze the Moblin and hit him with your best weapon for x3 dmg, rinse and repeat. Chest is under frozen pillar. The golden Moblin deals a crap ton of dmg, if you can't avoid all his hits use an ancient arrow.|
 |15|x1 White Moblin & x1 Blizzrobe & x2 Black Bokos & x1 Golden Boko|Moblin > Blizzrobe > Black Bokos > Golden, same strat as previous floor, also same if you can't avoid all the golden's Boko hits|
 |16|x1 Frost Talus|Fire arrow x1 + best 2h weapon, there are ice blocks you can melt to get updraft|
-|17|x1 White Lynel|I strongly suggest killing him to get his bow. If you're confident you can "head shot" the remaining guardians, then you can kill it with an Ancient arrow. If you fight him: classic Lynel fight, if you can aim on his head, head shot him, climb on his back and repeat till it's dead. If you can't aim (like I couldn't), shield parry, flurry rush! The Lynel as a sword, you can find a spear and a crusher in the room.|
+|17|x1 White Lynel|I strongly suggest killing him to get his bow. If you're confident you can "headshot" the remaining guardians, then you can kill it with an Ancient arrow. If you fight him: classic Lynel fight, if you can aim on his head, headshot him, climb on his back and repeat till it's dead. If you can't aim (like I couldn't), shield parry, flurry rush! The Lynel as a sword, you can find a spear and a crusher in the room.|
 |18|Rest|Fairies! (No fairies? Hold the ones you have in your inventory, close your inventory, put them back and enjoy your extra fairies)|
-|19|x6 Decayed Guardian|Either shield parry or spin to win with the crusher. Stealth till you are close to one and kill it. If one wakes up before you can reach it, hide behind trees and stasis him while you approach, head shot also stuns them for a good while|
+|19|x6 Decayed Guardian|Either shield parry or spin to win with the crusher. Stealth till you are close to one and kill it. If one wakes up before you can reach it, hide behind trees and stasis him while you approach, headshot also stuns them for a good while|
 |20|x1 Guardian Stalker|Either Ancient Arrow to the face or approach slowly, break his legs and finish the job with your best 1 handed (I broke 2 Royal Guard swords on it)|
 |21|x1 Guardian Skywatcher|Ancient Arrow on his back, where the Sheikah logo is, or in his eye. If you have the Lynel's bow, the three arrow shot will kill it (500 dmg each, non crit)|
 |22|x1 Guardian Skywatcher & x1 Guardian Stalker & x1 Guardian Turret|I went with the Skywatcher first, then the Stalker and the Turret at the end, always making sure I was in the Turret's blind spot. Ancient arrow FTW. The turrets can be relatively easy to kill without Ancient Arrow, if you don't have enough left|
-|23|x8 Blue Bokos on horses & x1 Guardian Turret & x1 Silver Lynel|The Lynel is the real danger, Ancient Arrow ASAP. Ignore the Bokos charging full speed at you (while still trying to avoid their horses). You can also use bomb arrows or the ice rod from room 15 to deal with Bokos easily. Climb on the tower to kill the Turret, then head shot the Bokos one by one. |
+|23|x8 Blue Bokos on horses & x1 Guardian Turret & x1 Silver Lynel|The Lynel is the real danger, Ancient Arrow ASAP. Ignore the Bokos charging full speed at you (while still trying to avoid their horses). You can also use bomb arrows or the ice rod from room 15 to deal with Bokos easily. Climb on the tower to kill the Turret, then headshot the Bokos one by one. |
 
 Congrats! You beat the trial! 
 
@@ -129,3 +130,4 @@ EDITS:
 0. Ice rod/Bombs arrow in the final room tip from /u/felicific
 0. Korok leaf is a great tool from /u/andysaurus_rex
 0. Added tips for Beginners room 4 from /u/ziggurism (helpful fella)
+0. Moved headshot tip to general advices and use consistent "headshot" wording
